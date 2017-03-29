@@ -1,0 +1,78 @@
+body{
+	background-color: green;
+}
+
+img{
+	
+	width: 	284px;
+	 margin-left: 637px;
+}
+
+/*.floatleft{
+	float: left;
+width: 40%;
+
+}
+*/
+
+.container {
+
+   float: left;
+    width: 40%;
+    border: 1px solid gray;
+    background-color: beige;
+
+}
+h2{
+	text-align: center;
+	margin-top: initial;
+}
+ol{
+ 
+  margin: 5px;
+  padding-left: 30px;
+
+ }
+ .wrapper{
+ 	width: 70%;
+ 	 margin: auto;
+}
+.container1 {
+    width: 40%;
+    border: 1px solid gray;
+    float: right;
+    background-color: beige;
+        margin-bottom: 19px;
+}    
+.container2 {
+	clear: both;
+    width: 40%;
+    border: 1px solid gray;
+    margin: auto;
+      background-color: beige;
+    padding: 10px;
+
+}
+
+.devour-btn {
+	float: 	right;	
+
+}
+.label {
+  font-weight: bold;
+ 
+}
+
+.burger-item {
+	line-height: 2;
+}
+
+.create-update-form {
+ 
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
